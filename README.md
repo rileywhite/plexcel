@@ -1,10 +1,14 @@
-# Simplexcel
+# plexcel
 
-## This project is discontinued
+## Original Simplexcel project project is discontinued
 
 Please see https://github.com/mstum/Simplexcel/issues/43
 
-# Old README.md for 3.1.0.195 
+This fork is not for general use at this time. Feel free to use it, but I won't do any real maintenance.
+
+# Old README.md for 3.1.0.195
+
+_Note: support for .NET Framework is dropped in this version even this this README hasn't been scrubbed._
 
 | master | release |
 | ------ | ------- |
